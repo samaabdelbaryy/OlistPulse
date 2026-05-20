@@ -13,7 +13,7 @@
 ├── WebPulse_Report.pdf            # Full executive report — Web e-commerce
 ├── RetailPulse.pdf                # Power BI dashboard (4 pages)
 ├── WebPulse.pdf                   # Power BI dashboard (4 pages)
-└── Retail_Dataset_Analysis.ipynb  # Python analysis notebook
+└── Retail_Dataset_Full_Code.ipynb  # Python analysis notebook
 ```
 
 ## 📌 Key Findings
