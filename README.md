@@ -11,8 +11,8 @@
 ```
 ├── RetailPulse_Report.pdf         # Full executive report — Olist marketplace
 ├── WebPulse_Report.pdf            # Full executive report — Web e-commerce
-├── RetailPulse.pbix               # Power BI dashboard (4 pages)
-├── WebPulse.pbix                  # Power BI dashboard (4 pages)
+├── RetailPulse.pdf                # Power BI dashboard (4 pages)
+├── WebPulse.pdf                   # Power BI dashboard (4 pages)
 └── Retail_Dataset_Analysis.ipynb  # Python analysis notebook
 ```
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔍 Key Analyses Covered
+## 🔍 Key Analysis Covered
 
 - Revenue vs goal decomposition across 4 dashboard pages each
 - Funnel analysis: session → order → customer conversion
